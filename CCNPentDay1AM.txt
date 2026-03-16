@@ -148,7 +148,7 @@ vlan 50
 vlan 69
    name nameMO
 vlan 70
-    name FAVEcolor
+    name black
 vlan 71
     name HR-fu
 vlan 100
@@ -185,10 +185,10 @@ config t
 ip routing
 ip dhcp pool CAMERA6
 host 10.41.50.6 255.255.255.0
-client-identifier 001a.0704.7f5b
+client-identifier 001a.0706.c2fe
 ip dhcp pool CAMERA8
 host 10.41.50.8 255.255.255.0
-client-identifier 001a.0709.c258 
+client-identifier 001a.0709.4929 
 end
 show ip dhcp binding
 
