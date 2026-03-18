@@ -1694,7 +1694,7 @@ What was gone?
 Hence, Stub = no Oe1, or Oe2 its been replaced by O*IA
 but try to ping 1.1.1.1
 
-MAKE AREA 34 A TOTALLY STUBBY AREA:
+MAKE AREA 34 A TOTALLY STUBBY AREA: Dulong dulo
 
 R3: totally stubby.
 config t
